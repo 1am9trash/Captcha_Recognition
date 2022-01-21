@@ -7,6 +7,7 @@ Captcha Recognition
 - **說明**
   - 參考[Captcha Recognition Report](report.html)。
 - **檔案架構**
+
   ![](img/1.png)
   - `data`
     - `train`：儲存training data。
