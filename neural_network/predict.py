@@ -15,7 +15,7 @@ from model import CAPTCHA_MODEL
 test_path = "../data/test"
 batch_size = 1
 
-model = torch.load("result/model_75.pt", map_location="cpu")
+model = torch.load("result/model_best_checkpoint.pt", map_location="cpu")
 
 test_dataset = CAPTCHA_DATASET(test_path)
 test_dataloader = DataLoader(test_dataset, batch_size=batch_size, shuffle=True, num_workers=0)
