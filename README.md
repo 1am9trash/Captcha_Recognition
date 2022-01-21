@@ -5,7 +5,7 @@ Captcha Recognition
   - 建立辨認度高，適應性強（適用於各種驗證碼）的強韌模型。
   - 比較傳統方法（Random Forest）跟神經網路（CNN）的模型。
 - **說明**
-  - 參考[Captcha Recognition Report](report.html)。
+  - 參考[Captcha Recognition Report](http://htmlpreview.github.io?https://github.com/1am9trash/Captcha_Recognition/blob/main/report.html)。
 - **檔案架構**
 
   ![](img/1.png)
